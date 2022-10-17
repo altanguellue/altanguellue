@@ -10,4 +10,4 @@ Next to my work life I have several hobbies, I'll just list them below:
 
 Here's a shot of me trying not do fall of my skateboard.
 
-![skating](https://user-images.githubusercontent.com/115747088/196200702-d757ab9b-7ba3-47fe-b599-927fecc33466.jpg)
+![skating_vert](https://user-images.githubusercontent.com/115747088/196205623-b422f039-61b3-475b-9972-54c59b7becdc.jpg)
