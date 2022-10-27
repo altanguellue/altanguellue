@@ -1,6 +1,6 @@
 ## Welcome to my personal page
 
-My name is Altan Güllü and I'm based in Berlin. After my studies within the IT and my first working steps for tech companies, I started a remote **Web Development Bootcamp** at [neue fische](https://www.neuefische.de/bootcamp/web-development).
+My name is Altan Güllü and I'm based in Berlin. After my studies within the IT and my first working steps for tech companies, I started a remote **Web Development Bootcamp** at [neue fische](https://www.neuefische.de/bootcamp/web-development). <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
 Next to my work life I have several hobbies, I'll just list them below:
 
